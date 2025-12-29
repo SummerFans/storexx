@@ -1,6 +1,6 @@
 /app/assets/* /assets/:splat 200
 /app / 200
 / /app 301
-/app/* / 200
+/app/login / 200
 
 
