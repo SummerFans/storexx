@@ -1,0 +1,10 @@
+{
+  "name": "storexx",
+  "compatibility_date": "2025-12-11",
+  "assets": {
+    "directory": "./"
+  },
+  "vars": {
+    "MEDUSA_BACKEND_URL": "https://api.petjumo.com"
+  }
+}
